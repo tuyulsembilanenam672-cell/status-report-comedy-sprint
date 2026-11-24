@@ -1,0 +1,10 @@
+{
+  "name": "status-report-comedy-sprint",
+  "version": "1.0.0",
+  "private": true,
+  "description": "One line of AI status-report comedy for make.fun's Status Report Comedy Sprint bounty.",
+  "scripts": {
+    "start": "python3 main.py"
+  },
+  "license": "MIT"
+}
